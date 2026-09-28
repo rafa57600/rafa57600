@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="140" align="center" valign="middle">
+    <td width="110" align="center" valign="middle">
       <img src="https://r57.fr/_next/image?url=%2Fimages%2Flogo-R57-2026-06-12.png&w=128&q=75" alt="R57 logo" width="100">
     </td>
     <td valign="middle">
@@ -16,15 +16,12 @@
         <a href="https://www.anthracode.com"><img src="./assets/icons/terminal.svg" alt="" width="16" height="16"> Anthracode</a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td></td>
     <td valign="middle">
-      <a href="https://www.npmjs.com/package/anthracode-ai">
-        <img src="https://img.shields.io/npm/v/anthracode-ai?style=flat-square&label=latest&color=4C6971" alt="latest version" height="20">
-        <img src="https://img.shields.io/npm/v/anthracode-ai/beta?style=flat-square&label=beta&color=4C6971" alt="beta version" height="20">
-        <img src="https://img.shields.io/npm/dm/anthracode-ai?style=flat-square&label=downloads%2Fmonth&color=4C6971" alt="monthly downloads" height="20">
-      </a>
+      <a href="https://www.npmjs.com/package/anthracode-ai"><img src="https://img.shields.io/npm/v/anthracode-ai?style=flat-square&logo=npm&color=CB3837&label=latest" alt="latest version" height="20"></a>
+      <br>
+      <a href="https://www.npmjs.com/package/anthracode-ai"><img src="https://img.shields.io/npm/v/anthracode-ai/beta?style=flat-square&logo=npm&color=CB3837&label=beta" alt="beta version" height="20"></a>
+      <br>
+      <a href="https://www.npmjs.com/package/anthracode-ai"><img src="https://img.shields.io/npm/dm/anthracode-ai?style=flat-square&logo=npm&color=CB3837&label=downloads%2Fmonth" alt="monthly downloads" height="20"></a>
     </td>
   </tr>
 </table>

@@ -5,3 +5,5 @@ package-lock.json
 build.mjs
 preview/
 preview.html
+badge-options.html
+badge-options.mjs
