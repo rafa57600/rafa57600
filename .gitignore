@@ -1,0 +1,7 @@
+# local preview tooling only — not part of the published profile
+node_modules/
+package.json
+package-lock.json
+build.mjs
+preview/
+preview.html
