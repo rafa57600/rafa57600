@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="110" align="center" valign="middle">
-      <img src="https://r57.fr/_next/image?url=%2Fimages%2Flogo-R57-2026-06-12.png&w=128&q=75" alt="R57 logo" width="100">
+      <a href="https://r57.fr"><img src="https://r57.fr/_next/image?url=%2Fimages%2Flogo-R57-2026-06-12.png&w=128&q=75" alt="R57 logo" width="100"></a>
     </td>
     <td valign="middle">
       <h1>Khalaf Silo</h1>
